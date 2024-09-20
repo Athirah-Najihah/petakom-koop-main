@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/petakom_logo.png') }}" alt="{{ config('app.name') }}" style="height: 50px;">
